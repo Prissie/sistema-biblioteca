@@ -1,4 +1,6 @@
 # Sistema Biblioteca 📚
+[![NPM](https://img.shields.io/github/license/Prissie/sistema-biblioteca?label=license%20)](https://github.com/Prissie/sistema-biblioteca/blob/main/LICENSE)
+
 Sistema desenvolvido como desafio na DevSchool MJV
 
 * API de uma Biblioteca com cadastro de usuários, livros e locações.
